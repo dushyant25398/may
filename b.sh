@@ -1,1 +1,1 @@
-ne1w file B
+new file B
